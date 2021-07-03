@@ -1,5 +1,6 @@
 {
-  "scopedRegistries": [{
+  "scopedRegistries": [
+    {
       "name": "MS Build for Unity",
       "url": "https://pkgs.dev.azure.com/UnityDeveloperTools/MSBuildForUnity/_packaging/UnityDeveloperTools/npm/registry",
       "scopes": [
@@ -16,6 +17,7 @@
     }
   ],
   "dependencies": {
+    "com.microsoft.azure.object-anchors.runtime": "file:C:/Users/hamat/Downloads/com.microsoft.azure.object-anchors.runtime-0.10.0.tgz",
     "com.microsoft.mixedreality.toolkit.foundation": "2.5.4",
     "com.microsoft.mixedreality.toolkit.tools": "2.5.4",
     "com.microsoft.msbuildforunity": "0.9.1-20200131.14",

@@ -602,7 +602,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: Microsoft
   metroCertificateIssuer: Microsoft
-  metroCertificateNotAfter: 8073a5825924d801
+  metroCertificateNotAfter: 00524ff4d172d801
   metroApplicationDescription: AOA MRTK sample application.
   wsaImages: {}
   metroTileShortName: OUMRTKApp
